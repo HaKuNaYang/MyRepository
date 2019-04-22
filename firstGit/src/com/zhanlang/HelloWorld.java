@@ -15,4 +15,9 @@ public class HelloWorld {
 		System.out.println("You are my favorite!");
 		return "123";
 	}
+	
+	public void love()
+	{
+		
+	}
 }
