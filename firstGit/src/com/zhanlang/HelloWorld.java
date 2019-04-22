@@ -9,4 +9,9 @@ public class HelloWorld {
 		System.out.println("宝宝，李落尘！");
 		System.out.println("人生若只如初见333！");
 	}
+	
+	public void love()
+	{
+		
+	}
 }
