@@ -19,5 +19,6 @@ public class HelloWorld {
 	public void love()
 	{
 		System.out.print("123");
+		System.out.print("杨佑宁");
 	}
 }
