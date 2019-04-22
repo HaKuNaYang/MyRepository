@@ -18,6 +18,6 @@ public class HelloWorld {
 	
 	public void love()
 	{
-		
+		System.out.print("123");
 	}
 }
