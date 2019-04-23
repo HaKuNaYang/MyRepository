@@ -20,7 +20,7 @@ public class HelloWorld {
 	{
 		System.out.print("123");
 		System.out.print("李落尘");
-		System.out.print("杨佑宁 - 小坏蛋  -- 希望 -- 梦想456");
-		System.out.println("222333444");
+		System.out.print("杨佑宁 - 小坏蛋 -- 梦想");
+		System.out.println("一切都结束了！！！");
 	}
 }
